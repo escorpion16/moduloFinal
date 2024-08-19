@@ -1,0 +1,37 @@
+path: C:\Users\Dennis\Documents\moduloFinal\moduloFinal\
+
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: Base-fusible
+  1: Borneras-electricas
+  2: Bornes-bananas
+  3: CM1241-RS-232-Siemens
+  4: CM1243-5-Siemens
+  5: CSM1277-SIMATIC-NET-Siemens
+  6: Disyuntor-1P
+  7: Disyuntor-2P
+  8: E-D-32DI-Siemens
+  9: Fuente-A.-MeanWell
+  10: Fuente-A.-PM1507-Siemens
+  11: HMI-KTP700-Siemens
+  12: Luz-piloto-roja
+  13: Luz-piloto-verde
+  14: Modulo-PM1207-Siemens
+  15: Parada-de-emergencia
+  16: Potenciometro
+  17: Pulsador-NA-verde
+  18: Relay-Camsco
+  19: Relay-Schneider
+  20: Relay-Siemens
+  21: Router-tplink
+  22: SCALANCE-XB005-Siemens
+  23: SIMATIC-S7-1200-Siemens
+  24: SIMATIC-S7-1500-Siemens
+  25: Selector
+  26: Siemens-LOGO-Power
+  27: Variador-de-frecuencia-Siemens
+  28: Voltimetro-Analogico
+  29: Voltimetro-digital
